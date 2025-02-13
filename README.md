@@ -1,4 +1,4 @@
-# intelhackathon
+# Intelhackathon
 
 Files to Run:
 
